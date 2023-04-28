@@ -1,3 +1,39 @@
+
+# :computer: Tesla Clone
+
+The Tesla Clone User Interface is a website that replicates the design and functionality of the official Tesla website. It has been built using HTML, CSS, pure JavaScript, and ReactJS, and it features a scrolling effect and a left slide-in menu bar.
+
+The website has been designed to provide users with an experience that is very similar to using the official Tesla website. The scrolling effect adds a touch of interactivity to the site, making it more engaging and enjoyable to use. The left slide-in menu bar provides quick and easy access to various sections of the site, including the different models of Tesla cars, their features, and pricing.
+
+Overall, the Tesla Clone User Interface is an impressive example of what can be achieved using HTML, CSS, pure JavaScript, and ReactJS.
+
+## :clipboard: Stack Used
+
+` HTML5 `
+` CSS3 `
+` Javascript `
+` Reactjs`
+
+
+
+## :camera: Screenshots
+
+<img src="https://raw.githubusercontent.com/shivam00005/tesla-clone/main/screenshots/home-page.png" alt="home page">
+
+<img src="https://raw.githubusercontent.com/shivam00005/tesla-clone/main/screenshots/nav-page.png" alt="nav page" >
+
+
+
+
+
+## :information_desk_person: Demo
+
+Live link to visit Tesla clone website: https://s-s-tesla-clone.netlify.app
+
+
+
+## Installation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -61,10 +97,53 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+
+
+## :wrench: Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## :satellite: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/shivam00005/tesla-clone
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+
+
+## :email:Feedback
+
+If you have any feedback, please reach out to us at sharmn6395960@gmail.com
+
+
+## :scroll:License
+
+Copyright (c) 2021 Shivam Sharma
+
+Licensed under the MIT License, available here: https://github.com/shivam00005/tesla-clone/blob/main/LICENSE
