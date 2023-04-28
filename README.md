@@ -1,5 +1,5 @@
 
-# :computer: Tesla Clone
+# :computer: Tesla Clone (How & why) :interrobang:
 
 The Tesla Clone User Interface is a website that replicates the design and functionality of the official Tesla website. It has been built using HTML, CSS, pure JavaScript, and ReactJS, and it features a scrolling effect and a left slide-in menu bar.
 
